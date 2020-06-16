@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent">Now Event</string>
+    <string name="etEventName">Typo del evento</string>
+    <string name="tvCurrentData">Fecha Actual</string>
+    <string name="btEditEventData">Editar fecha de evento</string>
+    <string name="title_activity_event_data">Fecha de event</string>
+    <string name="tvPriority">Prioritat</string>
+    <string name="rbLow">Baixa</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">Alta</string>
+
+    <string-array name="month">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Septembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+
+    <string name="place">LLoc</string>
+    <string name="setdateandtime">Cambair la data</string>
+    <string name="btAccept">Acceptar</string>
+    <string name="btCancel">Cancelar</string>
+</resources>
